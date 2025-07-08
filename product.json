@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "KF01 Chef Knife",
+        "price": 6000,
+        "image": "k1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "KF02 Chef Knife",
+        "price": 6000,
+        "image": "k2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "KF03 Chef Knife",
+        "price": 6000,
+        "image": "k3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "KF04 Chef Knife",
+        "price": 6000,
+        "image": "k4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "KF05 Chef Knife",
+        "price": 6000,
+        "image": "k5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "KF06 Chef Knife",
+        "price": 6000,
+        "image": "k6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "KF07 Chef Knife",
+        "price": 6000,
+        "image": "k7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "KF08 Chef Knife",
+        "price": 6000,
+        "image": "k8.jpg"
+    }
+]
